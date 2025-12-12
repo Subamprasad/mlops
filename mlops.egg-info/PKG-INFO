@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mlops
+Version: 0.0.1
+Author: subam
+Author-email: subamprasad4311@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
