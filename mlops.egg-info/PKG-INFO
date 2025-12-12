@@ -7,8 +7,11 @@ Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
 Requires-Dist: matplotlib
-Requires-Dist: scikit-learn
+Requires-Dist: scikit-learn<1.6
 Requires-Dist: dill
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: flask
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
